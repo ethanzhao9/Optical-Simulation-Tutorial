@@ -9,6 +9,7 @@ This repository contains a growing collection of scripts and tutorials that demo
 - **SIM (Structured Illumination Microscopy)**: Forward model simulation of raw SIM frames under realistic conditions
 - **PSF (Point Spread Function) Simulation**: Excitation, emission, and confocal PSFs using the angular spectrum method
 - **Fluorescence Image Formation**: Simulated image acquisition with optical blurring and illumination modulation
+- **Bessel Beam Simulation (920 nm)** — [3D beam propagation and annular pupil sweeps](Tutorial_11_Bessel_beam_3D.m), [conventional and Bessel two-photon XY scans of the same 3D bead sample](Tutorial_11_Bessel_two_photon_scan.m)
 - ...and more coming soon!
 
 All scripts are written in MATLAB and include step-by-step annotations to help you understand both the physics and the implementation logic.
