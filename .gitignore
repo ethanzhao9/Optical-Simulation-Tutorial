@@ -1,0 +1,14 @@
+# MATLAB autosaves
+*.asv
+
+# Generated tutorial outputs
+/PSF_3D.jpg
+/Confocal_PSF.jpg
+/Confocal_PSF_profile.jpg
+/SIM_raw.tif
+/SIM_raw_Illumination.tif
+/fft2_build_from_1d_v4_fixed.mp4
+/cbct_projections_angle.tif
+/cbct_projections_angle.mat
+/figures/
+/two_photon_figures/
