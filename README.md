@@ -21,10 +21,10 @@ Use MATLAB R2021b or later as a starting point. Extra toolbox, data, and hardwar
 | 4 | [Image formation with a pinhole](Tutorial_4_Simulate_PSF_with_pinhole.m) | Image a simulated 3D object with and without a pinhole, including Poisson noise. | [利用 PSF 模拟显微镜成像](https://zhuanlan.zhihu.com/p/1903927228938560123) |
 | **5, 8** | **Structured illumination (SIM)** | | |
 | 5 | [Moiré fringes](Tutorial_5_Simulate_Moire_Fringes.m) | Visualize how patterned illumination shifts sample frequencies. | [SIM 成像原理](https://zhuanlan.zhihu.com/p/1911024204633071916) |
-| 8 | [Raw SIM images](Tutorial_8_SIM_raw_images_simulation.m) | Generate raw frames at multiple illumination phases and orientations and export TIFF stacks. | |
+| 8 | [Raw SIM images](Tutorial_8_SIM_raw_images_simulation.m) | Generate raw frames at multiple illumination phases and orientations and export TIFF stacks. | [SIM 超分辨成像模拟](https://zhuanlan.zhihu.com/p/1932564385773121657) |
 | **6–7** | **Phase retrieval and wavefront aberrations** | | |
 | 6 | [Phase retrieval](Tutorial_6_Phase_retrieval_demo.m) | Design a phase-only hologram for a 3 × 3 spot array using Gerchberg–Saxton iterations. | [Phase Retrieval 相位恢复](https://zhuanlan.zhihu.com/p/1925315376465543692) |
-| 7 | [Zernike aberrations](Tutorial_7_Wavefront_Zernike_function.m) | Apply Zernike phase terms in the pupil and compare the resulting focal PSFs. | |
+| 7 | [Zernike aberrations](Tutorial_7_Wavefront_Zernike_function.m) | Apply Zernike phase terms in the pupil and compare the resulting focal PSFs. | [Zernike 多项式模拟波前畸变](https://zhuanlan.zhihu.com/p/1927307947966436540) |
 | **9–10** | **STED microscopy** | | |
 | 9 | [STED doughnut beam](Tutorial_9_STED_beam_demo.m) | Compare analytical doughnut intensity profiles for different beam waists. | [STED 超分辨成像原理](https://zhuanlan.zhihu.com/p/1942540299667740543) |
 | 10 | [2D STED PSF](Tutorial_10_STED_PSF_2D.m) | Simulate a vortex-generated depletion beam and compare effective PSFs at several depletion strengths. | [2D STED 超分辨成像模拟](https://zhuanlan.zhihu.com/p/1981838353243596699) |
