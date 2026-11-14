@@ -23,14 +23,14 @@ Use MATLAB R2021b or later as a starting point. Extra toolbox, data, and hardwar
 | 5 | [Moiré fringes](Tutorial_5_Simulate_Moire_Fringes.m) | Visualize how patterned illumination shifts sample frequencies. | [SIM 成像原理](https://zhuanlan.zhihu.com/p/1911024204633071916) |
 | 8 | [Raw SIM images](Tutorial_8_SIM_raw_images_simulation.m) | Generate raw frames at multiple illumination phases and orientations and export TIFF stacks. | |
 | **6–7** | **Phase retrieval and wavefront aberrations** | | |
-| 6 | [Phase retrieval](Tutorial_6_Phase_retrieval_demo.m) | Design a phase-only hologram for a 3 × 3 spot array using Gerchberg–Saxton iterations. | |
+| 6 | [Phase retrieval](Tutorial_6_Phase_retrieval_demo.m) | Design a phase-only hologram for a 3 × 3 spot array using Gerchberg–Saxton iterations. | [Phase Retrieval 相位恢复](https://zhuanlan.zhihu.com/p/1925315376465543692) |
 | 7 | [Zernike aberrations](Tutorial_7_Wavefront_Zernike_function.m) | Apply Zernike phase terms in the pupil and compare the resulting focal PSFs. | |
 | **9–10** | **STED microscopy** | | |
-| 9 | [STED doughnut beam](Tutorial_9_STED_beam_demo.m) | Compare analytical doughnut intensity profiles for different beam waists. | |
-| 10 | [2D STED PSF](Tutorial_10_STED_PSF_2D.m) | Simulate a vortex-generated depletion beam and compare effective PSFs at several depletion strengths. | |
+| 9 | [STED doughnut beam](Tutorial_9_STED_beam_demo.m) | Compare analytical doughnut intensity profiles for different beam waists. | [STED 超分辨成像原理](https://zhuanlan.zhihu.com/p/1942540299667740543) |
+| 10 | [2D STED PSF](Tutorial_10_STED_PSF_2D.m) | Simulate a vortex-generated depletion beam and compare effective PSFs at several depletion strengths. | [2D STED 超分辨成像模拟](https://zhuanlan.zhihu.com/p/1981838353243596699) |
 | **11** | **Bessel beams and two-photon imaging** | | |
-| 11a | [3D Bessel beam](Tutorial_11_Bessel_beam_3D.m) | Propagate a hard annular pupil at 920 nm and compare ring radius and width in XY and XZ. | |
-| 11b | [Bessel two-photon scan](Tutorial_11_Bessel_two_photon_scan.m) | Scan the same 3D bead sample once in XY with a conventional focus and once with a Bessel focus. | |
+| 11a | [3D Bessel beam](Tutorial_11_Bessel_beam_3D.m) | Propagate a hard annular pupil at 920 nm and compare ring radius and width in XY and XZ. | [贝塞尔光模拟](https://zhuanlan.zhihu.com/p/2104829994572816626) |
+| 11b | [Bessel two-photon scan](Tutorial_11_Bessel_two_photon_scan.m) | Scan the same 3D bead sample once in XY with a conventional focus and once with a Bessel focus. | [贝塞尔光模拟（双光子扫描）](https://zhuanlan.zhihu.com/p/2104829994572816626) |
 
 ## Additional demos
 
